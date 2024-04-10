@@ -25,7 +25,9 @@ Whether you're new to NLP or seeking to deepen your understanding of advanced te
 ## Projects
 
 [Twitter Disaster Classifier](https://github.com/elsayedelmandoh/twitter_disaster_classifier)
+
 [Sentiment Analysis](https://github.com/elsayedelmandoh/sentiment_analysis_NLP)
+
 [Arabic Abstractive Summarization](https://github.com/elsayedelmandoh/Arabic_Abstractive_Summarization)
 
 ## Contributing
