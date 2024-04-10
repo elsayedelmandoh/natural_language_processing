@@ -22,6 +22,12 @@ Welcome to the 'Natural Language Processing' repository! This repository is your
 
 Whether you're new to NLP or seeking to deepen your understanding of advanced techniques, this repository provides valuable content, examples, and resources to support your learning journey.
 
+## Projects
+
+[Twitter Disaster Classifier](https://github.com/elsayedelmandoh/twitter_disaster_classifier)
+[Sentiment Analysis](https://github.com/elsayedelmandoh/sentiment_analysis_NLP)
+[Arabic Abstractive Summarization](https://github.com/elsayedelmandoh/Arabic_Abstractive_Summarization)
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. Your contributions help make this repository a valuable resource for the community.
